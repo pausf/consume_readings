@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db385c4c-2bed-44e2-b0fc-79035ef13019" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reports/Application/Report/Query/FindSuspicious/FindSuspicious.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reports/Application/Report/Query/FindSuspicious/FindSuspicious.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -105,11 +105,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Reports/Application/Report/Query/FindSuspicious/FindSuspicious.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="128">
-              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
                 <element signature="e#71#120#0#PHP" expanded="true" />
               </folding>
@@ -165,7 +165,6 @@
         <option value="$PROJECT_DIR$/src/Shared/Application/QueryBusHandlerInterface.php" />
         <option value="$PROJECT_DIR$/src/Reports/Infrastructure/Report/Parser/Csv/CsvReportParser.php" />
         <option value="$PROJECT_DIR$/composer.json" />
-        <option value="$PROJECT_DIR$/src/Reports/Application/Report/Query/FindSuspicious/FindSuspicious.php" />
         <option value="$PROJECT_DIR$/config/services.yaml" />
         <option value="$PROJECT_DIR$/src/Reports/UI/Cli/ReportSuspiciousCommand.php" />
         <option value="$PROJECT_DIR$/src/Reports/Domain/Model/Report/ReportParser.php" />
@@ -183,6 +182,7 @@
         <option value="$PROJECT_DIR$/tests/Reports/Application/Report/Query/FindSuspicious/FindSuspiciousTest.php" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/Reports/Application/Report/Query/FindSuspicious/FindSuspicious.php" />
       </list>
     </option>
   </component>
@@ -256,6 +256,40 @@
               <item name="consume_report" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Reports" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="consume_report" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consume_report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="Report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="consume_report" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consume_report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="Report" type="462c0819:PsiDirectoryNode" />
+              <item name="Query" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="consume_report" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consume_report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="Report" type="462c0819:PsiDirectoryNode" />
+              <item name="Query" type="462c0819:PsiDirectoryNode" />
+              <item name="FindSuspicious" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="consume_report" type="b2602c69:ProjectViewProjectNode" />
+              <item name="consume_report" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
               <item name="UI" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -316,24 +350,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573384008175</updated>
-      <workItem from="1573384009449" duration="31139000" />
+      <workItem from="1573384009449" duration="31281000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31139000" />
+    <option name="totallyTimeSpent" value="31281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" sideWeight="0.50073856" side_tool="true" weight="0.2657082" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.2657082" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49926144" visible="true" weight="0.2657082" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49946752" visible="true" weight="0.32970297" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.49946752" visible="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5005325" side_tool="true" weight="0.32970297" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -626,16 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reports/Application/Report/Query/FindSuspicious/FindSuspicious.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-          <folding>
-            <element signature="e#71#120#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Reports/Domain/Model/Reading/ValueObject/ReadingId.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -684,6 +708,16 @@
             <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reports/Application/Report/Query/FindSuspicious/FindSuspicious.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="e#71#120#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

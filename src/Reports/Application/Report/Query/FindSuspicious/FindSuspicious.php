@@ -6,7 +6,7 @@ use Pau\Reports\Domain\Model\Report\ReportParser;
 use Pau\Shared\Application\QueryBusHandlerInterface;
 
 
-class FindSuspicious implements QueryBusHandlerInterface
+class FindSuspicious
 {
     /** @var ReportParser */
     private $reporParser;
