@@ -1,5 +1,4 @@
 # Report Suspicious
-Prueba técnica de HolaLuz
 
 #### Requerimientos:
 - php ^7.1
